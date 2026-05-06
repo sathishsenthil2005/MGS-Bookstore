@@ -1,26 +1,26 @@
-# 📚 Online Book Store (Laravel Project)
+# Online Book Store (Laravel Project)
 
 A simple Online Book Store web application built using Laravel.  
 This project allows users to view books and admin to manage books with CRUD operations.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User Side
+### User Side
 - Home Page (Public access)
 - View Book Listing
 - View Book Details
 - API Books section (Google Books API)
 
-### 🔐 Admin Side
+### Admin Side
 - Admin Dashboard (Login required)
 - Add new books
 - Edit existing books
 - Delete books
 - Manage book availability and price
 
-### ⚙️ Backend Features
+### Backend Features
 - Laravel MVC Architecture
 - Role-based access control (Admin/User)
 - MySQL Database integration
@@ -28,7 +28,7 @@ This project allows users to view books and admin to manage books with CRUD oper
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Laravel 12
 - PHP 8.2
@@ -38,7 +38,7 @@ This project allows users to view books and admin to manage books with CRUD oper
 
 ---
 
-## 🗄️ Database Tables
+## Database Tables
 
 ### Users Table
 - id
@@ -59,16 +59,6 @@ This project allows users to view books and admin to manage books with CRUD oper
 
 ---
 
-## 🔐 Admin Access
-
-- Admin login required for dashboard
+## Admin Access
 - Only admin can perform CRUD operations
 - Users can only view books
-
----
-
-## 📦 Installation Guide
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/bookstore.git
